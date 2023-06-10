@@ -11,7 +11,7 @@ class StartScreen extends StatelessWidget {
             const Text('Start Screen',
             style:TextStyle(fontSize:25),
             ),
-            const SizedBox(height: 20,),
+            const SizedBox(height: 22,),
            const Image(image:AssetImage('lib/media/Capa 1.png'),color: Color.fromARGB(130, 255, 255, 255),
            width: 180),
             const SizedBox(height: 20,),
